@@ -1,4 +1,4 @@
-# Awesome React Structure
+# 12 Rules for React
 
 # Files and Structure
 
